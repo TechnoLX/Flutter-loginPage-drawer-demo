@@ -21,19 +21,19 @@ the reference for Drawer class, feel free to view
 Credit to:
 
 1) Youtube channel: 
-  - Login Page inspired from The Flutter way, [Welcome, Login, Signup Page - Flutter UI - Speed Code, channel link: https://www.youtube.com/watch?v=ExKYjqgswJg)]
+  - Login Page inspired from The Flutter way, <br/> [Welcome, Login, Signup Page - Flutter UI - Speed Code, channel link: https://www.youtube.com/watch?v=ExKYjqgswJg)]
   
 2) Background Music:
-  - MixKit, [https://mixkit.co/free-stock-music/]
-  a. Beautiful Dream, by Diego Nava
-  b. Dreaming Big, by Ahjay Stelino
-  c. Summer Fun, by Ahjay Stelino
-  d. Tech House Vibes, by Alejandro Magana (A. M.)
-  e. Life is a Dream, by Michael Ramir C.
+  - MixKit, [https://mixkit.co/free-stock-music/] <br/>
+  a. Beautiful Dream, by Diego Nava <br/>
+  b. Dreaming Big, by Ahjay Stelino <br/>
+  c. Summer Fun, by Ahjay Stelino <br/>
+  d. Tech House Vibes, by Alejandro Magana (A. M.) <br/>
+  e. Life is a Dream, by Michael Ramir C. <br/>
   
 3) Images:
-  - taken from unDraw.io, [https://undraw.co/]
-  a. Mobile login
-  b. Forgot password
+  - taken from unDraw.io, [https://undraw.co/] <br/>
+  a. Mobile login <br/>
+  b. Forgot password <br/>
  
 Please feel free to comment and edit to make it look better. This project was created for flutter mobile application coding exercise. 
